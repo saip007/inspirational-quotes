@@ -1,2 +1,2 @@
-# inspirational_quotes
-inspirational quotes for python developers
+# inspirational-quotes
+Inspirational quotes for python developers
