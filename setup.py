@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="inspirational_quotes",
-    version="0.0.4",
+    version="0.0.7",
     author="saip007",
     author_email="saip4622@outlook.com",
     description="inspirational quotes package",
@@ -16,6 +16,7 @@ setuptools.setup(
     keywords=["quotes","python","development"],
     install_requires=['ujson'],
     platforms = ['any'],
+    package_data={'': ['*.json']},
     packages=setuptools.find_packages(include=['inspirational_quotes', 'inspirational_quotes.*']),
     classifiers=[
         "Programming Language :: Python :: 3",
