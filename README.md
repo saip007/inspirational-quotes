@@ -7,7 +7,7 @@ Click [here](https://pypi.org/project/inspirational-quotes/) to view this packag
 ## Installation
 
 ```bash
-$ npm install inspirational-quotes
+$ pip install inspirational-quotes
 ```
 
 ## Usage
