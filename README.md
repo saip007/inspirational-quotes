@@ -1,6 +1,6 @@
 # Inspirational Quotes
 
-**A simple [Pypi](https://pypi.org/project/inspirational-quotes/) Package which returns random [Inspirational Quotes](https://github.com/saip007/inspirational-quotes/). It provides Inspirational quotes to display in your application. Get your daily quote and stay motivated!**
+**A simple [Pypi](https://pypi.org/project/inspirational-quotes/) Package which returns random [Inspirational Quotes](https://github.com/saip007/inspirational_quotes/). It provides Inspirational quotes to display in your application. Get your daily quote and stay motivated!**
 
 Click [here](https://pypi.org/project/inspirational-quotes/) to view this package on PYPI registry.
 
