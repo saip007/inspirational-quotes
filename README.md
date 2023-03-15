@@ -21,8 +21,19 @@ print(quote)
 
 
 ```
--output:
+
+## Output:
 
 ```
  ('My number one piece of advice is: you should learn how to program.','Mark Zuckerberg, founder of Facebook')
  ```
+ ## Contributing:
+ 
+ - anyone can contribute to this project
+ - have a quote:bulb:, clone the repo and add to _quotes.json_ and raise a PR
+ - all valid PR's will be merged
+ 
+ 
+ ***Inspired from [@vinit_shahdeo](https://github.com/vinitshahdeo/inspirational-quotes) | made with :heart: by _[saip007](https://github.com/saip007/)_***
+
+_give your  :fist:(love & support) by adding a :star: to this repo. Thank you for being here!_
