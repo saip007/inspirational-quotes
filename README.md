@@ -29,7 +29,7 @@ print(quote)
  ```
  ## Contributing:
  
- - anyone can contribute to this project
+ - I will be grateful for any help you can provide to make this package better
  - have a quote:bulb:, clone the repo and add to _quotes.json_ and raise a PR
  - all valid PR's will be merged
  
