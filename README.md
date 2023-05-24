@@ -25,7 +25,7 @@ print(quote)
 ## Output:
 
 ```
- ('My number one piece of advice is: you should learn how to program.','Mark Zuckerberg, founder of Facebook')
+ {'quote': 'I didn’t go to college, but if I did, I would’ve taken all my tests at a restaurant, ’cause ‘The customer is always right.’', 'author': 'Mitch Hedberg'}
  ```
  ## Contributing:
  
