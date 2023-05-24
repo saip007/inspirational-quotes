@@ -6,6 +6,7 @@ def quote():
     _path = path.join(_path,"quotes/quotes.json")
     _quotes = json.loads(open(_path, 'rb').read())
     _quote = _quotes[random.randint(0,len(_quotes)-1)]
-    return (_quote['text'],_quote['from'])
+    _res = {'quote':_quote['text'],"author":_quote['from']}
+    return _res
 
 # print(type(quote()))
