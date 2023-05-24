@@ -34,6 +34,6 @@ print(quote)
  - all valid PR's will be merged
  
  
- ***Inspired from [@vinit_shahdeo](https://github.com/vinitshahdeo/inspirational-quotes) | made with :heart: by _[saip007](https://github.com/saip007/)_***
+ ***made with :heart: by _[saip007](https://github.com/saip007/)_***
 
-_give your  :fist:(love & support) by adding a :star: to this repo. Thank you for being here!_
+_give your love & support by adding a :star: to this repo. Thank you for being here!_
