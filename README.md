@@ -14,7 +14,7 @@ $ pip install inspirational-quotes
 
 ```.py
 
-from inspirational-quotes import quote
+from inspirational_quotes import quote
 
 quote = quote()
 print(quote)
