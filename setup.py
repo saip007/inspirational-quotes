@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="inspirational_quotes",
-    version="0.0.10",
+    version="0.0.11",
     author="saip007",
     author_email="saip4622@outlook.com",
     description="inspirational quotes package",
