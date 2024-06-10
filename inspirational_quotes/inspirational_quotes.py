@@ -9,4 +9,4 @@ def quote():
     _res = {'quote':_quote['text'],"author":_quote['from']}
     return _res
 
-# print(type(quote()))
+
