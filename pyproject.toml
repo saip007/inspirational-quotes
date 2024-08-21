@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "inspirational_quotes"
-version = "0.0.11.dev1"
+version = "0.0.12"
 description = "Ideal for developers seeking daily inspiration or anyone looking to add a touch of positivity to their projects. Easily integrate these quotes into your applications, websites, or personal projects to spread motivation and wisdom."
 readme = "README.md"
 license = {text = "MIT"}
