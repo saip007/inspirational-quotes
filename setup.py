@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="inspirational_quotes",
-    version="0.0.11b",
+    version="0.0.11.dev1",
     author="saip007",
     author_email="saip4622@outlook.com",
     description="Ideal for developers seeking daily inspiration or anyone looking to add a touch of positivity to their projects. Easily integrate these quotes into your applications, websites, or personal projects to spread motivation and wisdom",
