@@ -4,14 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "inspirational_quotes"
-version = "0.0.12"
+version = "0.0.13"
 description = "Ideal for developers seeking daily inspiration or anyone looking to add a touch of positivity to their projects. Easily integrate these quotes into your applications, websites, or personal projects to spread motivation and wisdom."
 readme = "README.md"
-license = {text = "MIT"}
+license = {file = "License.txt"}
 authors = [
     {name = "saip007", email = "saip4622@outlook.com"}
 ]
-urls = { "Homepage" = "https://github.com/saip007/inspirational_quotes" }
 keywords = ["quotes", "python", "development"]
 classifiers = [
     "Programming Language :: Python :: 3",
@@ -24,10 +23,10 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-include = ["inspirational_quotes", "inspirational_quotes.*"]
+where = ["inspirational_quotes"]
 
 [tool.setuptools.package-data]
-"inspirational_quotes" = ["*.json"]
+"*" = ["*.json"]
 
 [project.optional-dependencies]
 dev = []

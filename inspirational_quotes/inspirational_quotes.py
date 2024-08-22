@@ -2,11 +2,11 @@ import json,random
 from os import path
 
 def quote():
-    _path = path.dirname(__file__)
-    _path = path.join(_path,"quotes/quotes.json")
-    _quotes = json.loads(open(_path, 'rb').read())
-    _quote = _quotes[random.randint(0,len(_quotes)-1)]
-    _res = {'quote':_quote['text'],"author":_quote['from']}
-    return _res
+    dirpath = path.dirname(__file__)
+    dirpath = path.join(dirpath,"quotes/quotes.json")
+    quotes = json.loads(open(dirpath, 'rb').read())
+    quote = quotes[random.randint(0,len(quotes)-1)]
+    result = {'quote':quote['text'],"author":quote['from']}
+    return result
 
 
