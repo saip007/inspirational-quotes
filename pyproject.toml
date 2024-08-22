@@ -23,7 +23,7 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["inspirational_quotes"]
+include = ["inspirational_quotes", "inspirational_quotes/*"]
 
 [tool.setuptools.package-data]
 "*" = ["*.json"]
