@@ -25,7 +25,6 @@ jobs:
         python-version: '3.x'
     - name: Install dependencies
       run: |
-        echo $API_KEY
         python -m pip install --upgrade pip
         pip install build
     - name: Build package
