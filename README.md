@@ -31,4 +31,10 @@ print(quote)
  {'quote': 'I didn’t go to college, but if I did, I would’ve taken all my tests at a restaurant, ’cause ‘The customer is always right.’', 'author': 'Mitch Hedberg'}
  ```
 
-_Support by adding a ⭐ to [repo](https://github.com/saip007/inspirational_quotes). Happy Hacking. Thank you_
+## Author 
+
+
+| [Sambarathi Sai](https://saip007.tech) |
+|---------------------------------------------------------------------------------------------|
+| [X(🐦)](https://x.com/saip_007/)  [LinkedIn💻](https://linkedin.com/in/saip007/) |
+| _Support by adding a ⭐ to [repo](https://github.com/saip007/inspirational_quotes). Happy Hacking. Thank you_ |
